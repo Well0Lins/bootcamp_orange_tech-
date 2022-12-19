@@ -53,7 +53,7 @@ Nesse tópico foi focado em React e TypeScript.
   - A proposta do projeto foi de criar uma calculadora com as funções básicas
   
   - O projeto encontra-se em deploy [AQUI](calculadora-react-dio.netlify.app).
-    - também foi utilizado nesse desafio:
+    - Também foi utilizado nesse desafio:
       - [Styled Components](https://styled-components.com/);
       
  

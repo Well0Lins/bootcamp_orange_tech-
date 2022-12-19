@@ -59,7 +59,7 @@ Nesse tópico foi focado em React e TypeScript.
  
 - Criando uma wiki de repositorio do github com react.
   ![Foto do projeto](link)
-  -A proposta do projeto foi de criar uma wiki para salvar alguns repositórios do GitHub.
+  - A proposta do projeto foi de criar uma wiki para salvar alguns repositórios do GitHub.
   
 
 - Desenvolvendo a tela de cadastro da plataforma DIO com react.

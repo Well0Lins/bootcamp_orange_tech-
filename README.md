@@ -66,23 +66,23 @@ Nesse tópico foi focado em React e TypeScript.
   - Aqui fizemos um clone da plataforma DIO com tela de cadastro, login 
 
 - Implementando uma tela de login com validação usando typescript.
-  -Nessa parte utilizamos Typescript para criar uma tela de login com validação.
+  - Nessa parte utilizamos Typescript para criar uma tela de login com validação.
   
  ## Desafios
  - No decorrer do bootcamp tivemos alguns desafios de códigos para resolver:
-  -Dominando algoritmos basicos com desafios de codigo JavaScript
-    -Somando multiplos
-    -FizzBuzz
-    -Uma chamada recursiva
-    -Os numeros sao iguais
-    -Busca sequencial 
+  - Dominando algoritmos basicos com desafios de codigo JavaScript
+    - Somando multiplos
+    - FizzBuzz
+    - Uma chamada recursiva
+    - Os numeros sao iguais
+    - Busca sequencial 
     
-  -Dominando algoritmos intermediarios com desafios de codigos javascript
-    -Fatorial desajeitado
-    -Checagem de palindromos
-    -Quadrados perfeitos
-    -Matriz par e impar
-    -Validação de parenteses
+  - Dominando algoritmos intermediarios com desafios de codigos javascript
+    - Fatorial desajeitado
+    - Checagem de palindromos
+    - Quadrados perfeitos
+    - Matriz par e impar
+    - Validação de parenteses
 
 ## Autores
 
